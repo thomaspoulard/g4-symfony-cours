@@ -9,6 +9,9 @@ use Faker;
 
 class ArticleFixtures extends Fixture
 {
+
+    //TODO: For next time; Create ArticleController and display 100 articles in a new view that you can access with a navbar containing links
+    // Careful, it must be user friendly. Stylize your twig views with Bootstrap
     
     public function load(ObjectManager $manager): void
     {
