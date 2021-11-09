@@ -11,5 +11,6 @@
 
 ###> JetBrains PHP Storm IDE config
 /.idea/
-
 ###< JetBrains PHP Storm IDE config
+
+/node_modules/
