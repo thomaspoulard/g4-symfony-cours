@@ -8,3 +8,8 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> JetBrains PHP Storm IDE config
+/.idea/
+
+###< JetBrains PHP Storm IDE config
